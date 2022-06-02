@@ -1,4 +1,3 @@
-//COPY ALL CODE AND PASTE INTO BOOKMARK! TO USE, CLICK THE BOOKMARK
 javascript: if (typeof all === 'undefined') {let all = [];}
 all = document.getElementsByTagName('*');
 for (let i = 0; i < all.length; i++) { if(typeof all[i].style !== 'undefined'){all[i].style.fontFamily = "Comic Sans MS";}}
@@ -9,3 +8,4 @@ for (let j = 0 ; j < elems.length; j++) {
 if((elems[j].nodeName == "A" && (elems[j].style.background != "" || elems[j].style.backgroundImage != "")) || elems[j].nodeName != "A"){elems[j].style.filter = "invert()";}
 }
 void 0;
+//COPY ALL CODE AND PASTE INTO BOOKMARK! TO USE, CLICK THE BOOKMARK
