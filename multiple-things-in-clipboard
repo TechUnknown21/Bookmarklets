@@ -1,4 +1,3 @@
-//COPY ALL CODE AND PASTE INTO BOOKMARK! TO USE, CLICK THE BOOKMARK
 javascript:
 if(typeof clipBoard === 'undefined'){let clipBoard = "";} 
 window.focus(); 
@@ -7,3 +6,4 @@ clipBoard = await navigator.clipboard.readText();
 navigator.clipboard.writeText(clipBoard + " | " + window.getSelection()); 
 }, 500); 
 void 0;
+//COPY ALL CODE AND PASTE INTO BOOKMARK! TO USE, CLICK THE BOOKMARK
