@@ -1,4 +1,3 @@
-//COPY ALL CODE AND PASTE INTO BOOKMARK! TO USE, CLICK THE BOOKMARK
 data:text/html;charset=utf-8,
 <html>
 <head> <title>My text editor</title>
@@ -25,3 +24,4 @@ function downloadContent(tmp){ let a = document.body.appendChild(document.create
 </script>
 </body>
 </html>
+//COPY ALL CODE AND PASTE INTO BOOKMARK! TO USE, CLICK THE BOOKMARK
